@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="button_iniciar_jogo">Iniciar Jogo</string>
+    <string name="label_clique_para_definir_foto">Clique para definir sua foto</string>
+    <string name="edit_digite_seu_nome">Digite seu nome</string>
+    <string name="string_foto_do_jogador">Foto do Jogador</string>
+    <string name="button_continuar">Continuar</string>
+    <string name="button_voltar">Voltar</string>
+    <string name="jogar_novamente_button">Jogar Novamente</string>
+</resources>
